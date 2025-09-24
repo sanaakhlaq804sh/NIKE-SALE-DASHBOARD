@@ -41,7 +41,7 @@ It highlights key metrics, sales trends, and regional insights with a clean, bra
 ## 📷 Dashboard Screenshots
 
 **Home Page**  
-![Home Page](https://github.com/your-username/your-repo-name/blob/main/nike%201.png?raw=true)
+![Home Page](https://github.com/sanaakhlaq804sh/NIKE-SALE-DASHBOARD/blob/main/nike%202.png)
 
 **KPI Page**  
 ![KPI Page](https://github.com/your-username/your-repo-name/blob/main/nike%202.png?raw=true)
